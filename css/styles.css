@@ -103,10 +103,12 @@
   padding: 10px 20px; /* Apply padding when stacked vertically */
 }
 
-
-
-
-
+.contact-btn {
+  /* padding-top: 50px;
+  padding-bottom: 50px; */
+  padding-top: 25px !important;
+  padding-bottom: 25px !important;
+}
 
 .faq-item {
   margin-bottom: 1rem;
@@ -10966,8 +10968,8 @@ p {
 }
 #mainNav .navbar-brand img {
   /* height: 1.5rem; */
-  width: 100px; /* Set the width */
-  height: 100px; /* Set the height equal to the width */
+  width: 80px; /* Set the width */
+  height: 80px; /* Set the height equal to the width */
   border-radius: 50%; /* Makes the image circular */
   object-fit: cover; /* Ensures the image is contained within the circle, cropping if necessary */
 }
